@@ -1,4 +1,4 @@
-# Description: This programe is inspired by Youtube Channel Computer Science https://www.youtube.com/watch?v=iGWbqhdjf2s with some imprpvements
+# Description: This programe is inspired by Youtube Channel Computer Science https://www.youtube.com/watch?v=iGWbqhdjf2s with some improvements
 #              A Machine Learning program that uses TensorFlow & Convolutional Neural Networks (CNN) to classify images
 #              Trained with University of Toronto's CIFAR-100 dataset.
 
