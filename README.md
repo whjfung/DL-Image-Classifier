@@ -1,5 +1,6 @@
 # ML-Image-Classifier
-A convolutional neural networks (CNN)-based machine learning algorithm which incorporates TensorFlow and Keras to classify images
+A convolutional neural networks (CNN)-based machine learning algorithm which incorporates TensorFlow and Keras for image classification.
+
 Trained with the CIFAR-100 dataset.
 
 # Limitations
