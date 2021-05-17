@@ -86,9 +86,6 @@ model.add(Dense(1000, activation = 'relu'))
 # Add a dropout layer
 model.add(Dropout(0.5))
 
-# Add a layer with 500 neurons
-model.add(Dense(500, activation = 'relu'))
-
 # Add a layer with 250 neurons
 model.add(Dense(250, activation = 'relu'))
 
@@ -99,7 +96,7 @@ model.add(Dense(100, activation = 'softmax'))
 model.compile(loss = 'categorical_crossentropy', optimizer = 'adam', metrics = ['accuracy'])
 
 # Train the model
-hist = model.fit(x_train, y_train_one_hot, batch_size=1, epochs=10, validation_split=0.2)
+hist = model.fit(x_train, y_train_one_hot, batch_size=400, epochs=100, validation_split=0.2)
 
 # Evaluate the model using the test data set
 model.evaluate(x_test, y_test_one_hot)[1]
