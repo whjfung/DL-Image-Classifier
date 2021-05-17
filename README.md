@@ -1,5 +1,6 @@
 # ML-Image-Classifier
-A machine learning algorithm that incoporates TensorFlow & Convolutional Neural Networks (CNN) to classify image types.
-It utilizes University of Toronto's CIFAR-100 dataset.
+A convolutional neural networks (CNN)-based machine learning algorithm which incoporates TensorFlow and Keras to classify images
+Trained with the CIFAR-100 dataset.
 
+# Credits
 Inspired by Youtube Channel Computer Science https://www.youtube.com/watch?v=iGWbqhdjf2s with some improvements
