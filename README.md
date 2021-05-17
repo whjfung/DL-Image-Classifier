@@ -4,7 +4,7 @@ A convolutional neural networks (CNN)-based deep learning algorithm using the Ke
 Trained with the CIFAR-100 dataset.
 
 # Limitations
-While CIFAR-10 is easy to work with, training on CIFAR-100 certainly poses some limitations as it is not easy to train a really deep learning model and is not feasible to get results as high as 90% such as in MNIST. However, this has really been an interesting challenge for me to see how far this dataset could go. To save training time, I have used a batch size of 250 with 10 epochs and 0.2 validation split, using ReLu as activation function. Due to this nature, after a series of trail, this model has only been able to give an overall accuracy of 37.95%.
+While CIFAR-10 is easy to work with, training on CIFAR-100 certainly poses some limitations as it is not easy to train a really deep learning model and is not feasible to get results as high as 90% such as in MNIST. However, this has really been an interesting challenge for me to see how far this dataset could go. To save training time, I have used a batch size of 250 with 10 epochs and 0.2 validation split, using ReLu as activation function. Due to this nature, after a series of trail, this model has only been able to give a testing accuracy of 37.95%.
 
 ![image](https://user-images.githubusercontent.com/77548862/118425852-a28b8b00-b6fc-11eb-8ade-1a94b269bc18.png)
 ![image](https://user-images.githubusercontent.com/77548862/118425857-a5867b80-b6fc-11eb-805d-caf88fffbb36.png)
