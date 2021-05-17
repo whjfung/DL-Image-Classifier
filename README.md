@@ -22,7 +22,7 @@ Expected: lion
 Well... it (kinda) works!
 
 # Limitations
-While CIFAR-10 is easy to work with, training on CIFAR-100 certainly poses some limitations as it is not easy to train a really deep learning model and is not feasible to get results as high as 90% such as in MNIST. However, this has really been an interesting challenge for me to see how far this dataset could go. To save training time, I have used a batch size of 250 with 10 epochs and 0.2 validation split, using ReLu as activation function. Due to this nature, after a series of trail, this model has only been able to give a testing accuracy of 40.28%.
+While CIFAR-10 is easy to work with, training on CIFAR-100 certainly poses some limitations as it is not easy to train a really deep learning model and is not feasible to get results as high as 90% such as in MNIST. However, this has really been an interesting challenge for me to see how far this dataset could go. To save training time, I have used a batch size of 250 with 20 epochs and 0.2 validation split on my neural network, using ReLu as activation function. Due to this nature, after a series of trail, this model has only been able to give a testing accuracy of 40.28%.
 
 ![image](https://user-images.githubusercontent.com/77548862/118463407-4d6a6c00-b732-11eb-8246-5d86e6a2a2ef.png)
 ![image](https://user-images.githubusercontent.com/77548862/118463415-50655c80-b732-11eb-94a4-94e29ab158d8.png)
