@@ -8,7 +8,7 @@ While CIFAR-10 is easy to work with, training on CIFAR-100 certainly poses some 
 ![image](https://user-images.githubusercontent.com/77548862/118425852-a28b8b00-b6fc-11eb-8ade-1a94b269bc18.png)
 ![image](https://user-images.githubusercontent.com/77548862/118425857-a5867b80-b6fc-11eb-805d-caf88fffbb36.png)
 
-# Performance
+# Examples
 Expected: motorcycle
 
 ![image](https://user-images.githubusercontent.com/77548862/118425904-c058f000-b6fc-11eb-8ca2-2750d43d3e25.png)
