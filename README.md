@@ -31,3 +31,4 @@ An alternate apporach would be the model used by Djork-Arné Clevert, Thomas Unt
 
 # Credits
 Inspired by Youtube Channel Computer Science https://www.youtube.com/watch?v=iGWbqhdjf2s
+CIFAR-10 and 100 https://www.cs.toronto.edu/~kriz/cifar.html
