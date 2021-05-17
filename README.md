@@ -8,10 +8,21 @@ While CIFAR-10 is easy to work with, training on CIFAR-100 certainly poses some 
 ![image](https://user-images.githubusercontent.com/77548862/118425852-a28b8b00-b6fc-11eb-8ade-1a94b269bc18.png)
 ![image](https://user-images.githubusercontent.com/77548862/118425857-a5867b80-b6fc-11eb-805d-caf88fffbb36.png)
 
-Test with a picture of motorcycle from Google
+# Performance
+Expected: motorcycle
 
 ![image](https://user-images.githubusercontent.com/77548862/118425904-c058f000-b6fc-11eb-8ca2-2750d43d3e25.png)
 ![image](https://user-images.githubusercontent.com/77548862/118425924-cc44b200-b6fc-11eb-8343-ef3c041e0bc1.png)
+
+Expected: tractor
+
+![image](https://user-images.githubusercontent.com/77548862/118426256-7b818900-b6fd-11eb-995e-197331f3b908.png)
+![image](https://user-images.githubusercontent.com/77548862/118426274-82a89700-b6fd-11eb-8ca4-007651759fc1.png)
+
+Expected: lion
+
+![image](https://user-images.githubusercontent.com/77548862/118426462-d31ff480-b6fd-11eb-8b94-ad6ee33de923.png)
+![image](https://user-images.githubusercontent.com/77548862/118426474-dadf9900-b6fd-11eb-9618-b325d5c4b832.png)
 
 Well.... it (kinda) works!
 
