@@ -24,7 +24,7 @@ Expected: lion
 ![image](https://user-images.githubusercontent.com/77548862/118426462-d31ff480-b6fd-11eb-8b94-ad6ee33de923.png)
 ![image](https://user-images.githubusercontent.com/77548862/118426474-dadf9900-b6fd-11eb-9618-b325d5c4b832.png)
 
-Well.... it (kinda) works!
+Well... it (kinda) works!
 
 # Remedy
 An alternate apporach would be the model used by Djork-Arné Clevert, Thomas Unterthiner, Sepp Hochreiter which uses ELU as activation function as re-implemented in this article https://medium.com/@birdortyedi_23820/deep-learning-lab-episode-5-cifar-100-a557e19219ba. While this model could give a top-1 accuracy of 75.72%, it would reuqire harsh requirements such as 165000 epochs. For the specs of my pc (2070) it is still expected to run at least 20 days non-stop. Anyway, I have learnt quite a lot in this project, and that's what important ^^.
