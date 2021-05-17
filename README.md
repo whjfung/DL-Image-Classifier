@@ -30,5 +30,5 @@ Well.... it (kinda) works!
 An alternate apporach would be the model used by Djork-Arné Clevert, Thomas Unterthiner, Sepp Hochreiter which uses ELU as activation function as re-implemented in this article https://medium.com/@birdortyedi_23820/deep-learning-lab-episode-5-cifar-100-a557e19219ba. While this model could give a top-1 accuracy of 75.72%, it would reuqire harsh requirements such as 165000 epochs. For the specs of my pc (2070) it is still expected to run at least 20 days non-stop. Anyway, I have learnt quite a lot in this project, and that's what important ^^.
 
 # Credits
-Inspired by Youtube Channel Computer Science https://www.youtube.com/watch?v=iGWbqhdjf2s
+Inspired by Youtube Channel Computer Science https://www.youtube.com/watch?v=iGWbqhdjf2
 CIFAR-10 and 100 https://www.cs.toronto.edu/~kriz/cifar.html
