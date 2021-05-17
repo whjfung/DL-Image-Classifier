@@ -1,4 +1,4 @@
-# ML-Image-Classifier
+# ML Image Classifier
 A convolutional neural networks (CNN)-based deep learning algorithm using the Keras Sequential API for image classification.
 
 Trained with the CIFAR-100 dataset.
